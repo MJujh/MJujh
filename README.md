@@ -1,22 +1,9 @@
 <h1>Hi, I'm Le Chi Bao! <br/><a href="https://drive.google.com/file/d/1Gjm89cLIQKjoHPsqBKLSQlQ3bcCl0eKJ/view?usp=sharing">IT student</a> at <a href="https://www.hutech.edu.vn/">Hutech</a></h1>
 
-<h2>👨‍💻 Qualification:</h2>
+<h2>👨‍💻 Skills:</h2>
 
-- <b>Code institute HTML, CSS, Javascript (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Have basic knowlegdge of HTML, CSS, Javascript</b>
+  - [Code institue coding boot camp certificate](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+FDCC+2021/courseware/c6c6f9cbff374437b952b6df90374a99/ae6634410f774c0aae30ab760716f1ba/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
