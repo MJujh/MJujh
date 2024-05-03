@@ -5,30 +5,27 @@
 - <b>Have basic knowlegdge of HTML, CSS, Javascript</b>
   - [Code institue coding boot camp certificate](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+FDCC+2021/courseware/c6c6f9cbff374437b952b6df90374a99/ae6634410f774c0aae30ab760716f1ba/)
 
-<h2>📺 Popular YouTube Videos</h2>
+
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on building my experience with using github and simple project
+- 🌱 I’m currently learning HTML, CSS, JS, React
+- 👯 I’m looking to collaborate on new website development
+- 🤔 I’m looking for help with knowing what to do and getting my foot in the door
+- 💬 Ask me about anything and i'll try to get back to you as soon as i could
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: ... (will update later)
 -->
