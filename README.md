@@ -1,4 +1,4 @@
-<h1>Hi, I'm Le Chi Bao! <br/><a href="https://drive.google.com/file/d/1Gjm89cLIQKjoHPsqBKLSQlQ3bcCl0eKJ/view?usp=sharing">IT student</a> at <a href="https://greenwich.edu.vn/en/about-greenwich-vietnam/">Greenwich university</a></h1>
+<h1>Hi, I'm Le Chi Bao! <br/>IT student</a> at <a href="https://greenwich.edu.vn/en/about-greenwich-vietnam/">Greenwich university</a></h1>
 
 <h2>👨‍💻 Skills:</h2>
 
