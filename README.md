@@ -3,7 +3,7 @@
 <h2>👨‍💻 Skills:</h2>
 
 - <b>Have basic knowlegdge of HTML, CSS, Javascript</b>
-  - [Code institue coding boot camp certificate](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+FDCC+2021/courseware/c6c6f9cbff374437b952b6df90374a99/ae6634410f774c0aae30ab760716f1ba/)
+  - [Freecodecamp responsive web design](https://www.freecodecamp.org/certification/fcc34a16556-2e38-4c61-99d4-628a7d8cefcd/responsive-web-design)
 
 
 
